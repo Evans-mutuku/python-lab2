@@ -2,6 +2,6 @@
 
 Python Assignment
 
-This is an assignment on Python, week two of learning the Software Engineering 
+This is an assignment on Python, week two of learning the Software Engineering course 
 
 ### Happy Coding!
